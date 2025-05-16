@@ -5,4 +5,5 @@
 CycleGAN notebook: https://colab.research.google.com/drive/1b3AP0-d9NNQZ56vMQqZFIkth9Cbk4rVN?usp=sharing
 
 NeuralStyleTransfer notebook: https://colab.research.google.com/drive/1Gtqi0uE6_HjZun95WpHXGXTntftuh33b?usp=sharing
+<img width="472" alt="image" src="https://github.com/user-attachments/assets/3a84eea1-9307-4a48-8841-9321b8f2b3fd" />
 
